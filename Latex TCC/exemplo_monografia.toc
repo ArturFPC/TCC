@@ -1,0 +1,31 @@
+\babel@toc {brazil}{}\relax 
+\contentsline {chapter}{\numberline {1}INTRODUÇÃO}{8}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Justificativa e proposta}{9}{section.2}%
+\contentsline {section}{\numberline {1.2}Objetivos}{10}{section.3}%
+\contentsline {subsection}{\numberline {1.2.1}Objetivo geral}{10}{subsection.4}%
+\contentsline {subsection}{\numberline {1.2.2}Objetivos específicos}{10}{subsection.5}%
+\contentsline {subsection}{\numberline {1.2.3}Características da pesquisa}{10}{subsection.6}%
+\contentsline {section}{\numberline {1.3}Estrutura do documento}{11}{section.11}%
+\contentsline {chapter}{\numberline {2}FUNDAMENTAÇÃO TEÓRICA}{12}{chapter.12}%
+\contentsline {section}{\numberline {2.1}Mercado financeiro}{12}{section.13}%
+\contentsline {section}{\numberline {2.2}Minicontrato Futuro do Índice Bovespa}{12}{section.14}%
+\contentsline {section}{\numberline {2.3}Relação risco e retorno}{13}{section.15}%
+\contentsline {section}{\numberline {2.4}Negociação algorítmica}{13}{section.16}%
+\contentsline {section}{\numberline {2.5}Médias móveis}{14}{section.17}%
+\contentsline {section}{\numberline {2.6}Algoritmos de otimização}{16}{section.22}%
+\contentsline {section}{\numberline {2.7}Otimização por Enxame de Partículas (PSO)}{17}{section.23}%
+\contentsline {chapter}{\numberline {3}REVISÃO BIBLIOGRÁFICA}{19}{chapter.24}%
+\contentsline {section}{\numberline {3.1}Evolução da área}{19}{section.25}%
+\contentsline {section}{\numberline {3.2}Técnicas para definição de \textit {Stop-loss} e \textit {Take-profit}}{20}{section.27}%
+\contentsline {section}{\numberline {3.3}Trabalhos relacionados}{21}{section.28}%
+\contentsline {subsection}{\numberline {3.3.1}Diferencial da abordagem apresentada}{22}{subsection.29}%
+\contentsline {chapter}{\numberline {4}METODOLOGIA}{24}{chapter.31}%
+\contentsline {section}{\numberline {4.1}Extração e tratamento de dados}{24}{section.32}%
+\contentsline {section}{\numberline {4.2}Fase de entrada do PSO}{25}{section.33}%
+\contentsline {section}{\numberline {4.3}Aplicação do PSO}{25}{section.34}%
+\contentsline {section}{\numberline {4.4}Análise e comparação entre abordagens}{27}{section.37}%
+\contentsline {chapter}{\numberline {5}RESULTADOS}{28}{chapter.38}%
+\contentsline {section}{\numberline {5.1}Pontos de saída obtidos}{28}{section.39}%
+\contentsline {section}{\numberline {5.2}Comparação entre abordagens}{28}{section.40}%
+\contentsline {chapter}{\numberline {6}CONCLUSÃO}{31}{chapter.45}%
+\contentsline {chapter}{REFERÊNCIAS}{32}{chapter*.46}%

@@ -1,0 +1,1865 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global/global}
+    \entry{NETORISCO}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=327bf9adf7e477b7564ebf69ce9791cd}{%
+           family={Assaf\bibnamedelima Neto},
+           familyi={A\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {São Paulo, Brasil}%
+      }
+      \list{publisher}{1}{%
+        {Atlas}%
+      }
+      \strng{namehash}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{fullhash}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{fullhashraw}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{bibnamehash}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{authorbibnamehash}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{authornamehash}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{authorfullhash}{327bf9adf7e477b7564ebf69ce9791cd}
+      \strng{authorfullhashraw}{327bf9adf7e477b7564ebf69ce9791cd}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercado Financeiro}
+      \field{year}{2014}
+    \endentry
+    \entry{B3}{online}{}{}
+      \name{author}{1}{}{%
+        {{hash=84d9ac2a7417df73cd7db6a3876b7b21}{%
+           family={B3\bibnamedelima S.A.\bibnamedelimi -\bibnamedelima Brasil},
+           familyi={B\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim \bibinithyphendelim \bibinitperiod\bibinitdelim B\bibinitperiod},
+           given={Balcão},
+           giveni={B\bibinitperiod},
+           suffix={Bolsa},
+           suffixi={B\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{un=0,uniquepart=base,hash=0c4ecd7b59ebc5b9f47974cb9845fd02}{%
+           family={B3},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c4ecd7b59ebc5b9f47974cb9845fd02}
+      \strng{fullhash}{84d9ac2a7417df73cd7db6a3876b7b21}
+      \strng{fullhashraw}{84d9ac2a7417df73cd7db6a3876b7b21}
+      \strng{bibnamehash}{0c4ecd7b59ebc5b9f47974cb9845fd02}
+      \strng{authorbibnamehash}{84d9ac2a7417df73cd7db6a3876b7b21}
+      \strng{authornamehash}{84d9ac2a7417df73cd7db6a3876b7b21}
+      \strng{authorfullhash}{84d9ac2a7417df73cd7db6a3876b7b21}
+      \strng{authorfullhashraw}{84d9ac2a7417df73cd7db6a3876b7b21}
+      \strng{shortauthorbibnamehash}{0c4ecd7b59ebc5b9f47974cb9845fd02}
+      \strng{shortauthornamehash}{0c4ecd7b59ebc5b9f47974cb9845fd02}
+      \strng{shortauthorfullhash}{0c4ecd7b59ebc5b9f47974cb9845fd02}
+      \strng{shortauthorfullhashraw}{0c4ecd7b59ebc5b9f47974cb9845fd02}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{Histórico}
+      \field{urlday}{18}
+      \field{urlmonth}{3}
+      \field{urlyear}{2024}
+      \field{year}{2020}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://ri.b3.com.br/pt-br/b3/historico/
+      \endverb
+      \verb{url}
+      \verb https://ri.b3.com.br/pt-br/b3/historico/
+      \endverb
+    \endentry
+    \entry{cavalcante2009mercado}{book}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=95dcb985e55a8641f1c8cb10fc421212}{%
+           family={CAVALCANTE},
+           familyi={C\bibinitperiod},
+           given={Francisco},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48f67e4eb48218364f2054ca92d8ddd4}{%
+           family={MISUMI},
+           familyi={M\bibinitperiod},
+           given={Jorge\bibnamedelima Yoshio},
+           giveni={J\bibinitperiod\bibinitdelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=35c37c99bf14d96288bf81e3cbcc1f01}{%
+           family={RUDGE},
+           familyi={R\bibinitperiod},
+           given={Luiz\bibnamedelima Fernando},
+           giveni={L\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Rio de janeiro: Editora Campus/Elsevier}%
+      }
+      \strng{namehash}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{fullhash}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{fullhashraw}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{bibnamehash}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{authorbibnamehash}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{authornamehash}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{authorfullhash}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \strng{authorfullhashraw}{a837ffbfc18aea1a2a44b3d407f14a03}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mercado de Capitais, o que é e como funciona. 7{ª} edição}
+      \field{year}{2009}
+    \endentry
+    \entry{8616576}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=eda89b07e3a5797d3c2db05c0ba0361e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Chun-Hao},
+           giveni={C\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=16e55cc96690099ea18ef39802709813}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Yu-Hsuan},
+           giveni={Y\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6011db977d88b69ffbcf7392fc091cb}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Mu-En},
+           giveni={M\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9fe5497d3927179e0c1068712c871d55}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Tzung-Pei},
+           giveni={T\bibinithyphendelim P\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f59415258ce53b9f1f4a2fd31604aaa2}
+      \strng{fullhash}{66b20f3df77492e4da69f385eebded26}
+      \strng{fullhashraw}{66b20f3df77492e4da69f385eebded26}
+      \strng{bibnamehash}{f59415258ce53b9f1f4a2fd31604aaa2}
+      \strng{authorbibnamehash}{f59415258ce53b9f1f4a2fd31604aaa2}
+      \strng{authornamehash}{f59415258ce53b9f1f4a2fd31604aaa2}
+      \strng{authorfullhash}{66b20f3df77492e4da69f385eebded26}
+      \strng{authorfullhashraw}{66b20f3df77492e4da69f385eebded26}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2018 IEEE International Conference on Systems, Man, and Cybernetics (SMC)}
+      \field{title}{A Sophisticated Optimization Algorithm for Obtaining a Group Trading Strategy Portfolio and Its Stop-Loss and Take-Profit Points}
+      \field{year}{2018}
+      \field{pages}{3417\bibrangedash 3420}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1109/SMC.2018.00579
+      \endverb
+      \keyw{Portfolios;Biological cells;Optimization;Sociology;Statistics;Task analysis;Genetic algorithms;Group trading strategy portfolio;grouping genetic algorithm;portfolio optimization;stop-loss and take-profit points;trading strategy}
+    \endentry
+    \entry{CorreaPSO}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=7ffbe3d49a7f382d8cfc9c2a4f34b4de}{%
+           family={Correa},
+           familyi={C\bibinitperiod},
+           given={Elon\bibnamedelima S.},
+           giveni={E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=82469e2f61871ac5e3be89a40311d954}{%
+           family={Freitas},
+           familyi={F\bibinitperiod},
+           given={Alex\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07edfc0db3565ab62554a5bce167a1ec}{%
+           family={Johnson},
+           familyi={J\bibinitperiod},
+           given={Colin\bibnamedelima G.},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=ed95c17dd2c07a31c3e7a4e4de81d0c2}{%
+           family={Keijzer},
+           familyi={K\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{organization}{1}{%
+        {ACM SIGEVO}%
+      }
+      \strng{namehash}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{fullhash}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{fullhashraw}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{bibnamehash}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{authorbibnamehash}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{authornamehash}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{authorfullhash}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{authorfullhashraw}{0a8e840193ff9fc89865b8f0d59989c9}
+      \strng{editorbibnamehash}{ed95c17dd2c07a31c3e7a4e4de81d0c2}
+      \strng{editornamehash}{ed95c17dd2c07a31c3e7a4e4de81d0c2}
+      \strng{editorfullhash}{ed95c17dd2c07a31c3e7a4e4de81d0c2}
+      \strng{editorfullhashraw}{ed95c17dd2c07a31c3e7a4e4de81d0c2}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{GECCO 2006: GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE, VOL 1 AND 2}
+      \field{isbn}{978-1-59593-186-3}
+      \field{note}{8th Annual Genetic and Evolutionary Computation Conference, Seattle, WA, JUL 08-12, 2006}
+      \field{title}{A new discrete particle swarm algorithm applied to attribute selection in a bioinformatics data set}
+      \field{year}{2006}
+      \field{pages}{35+}
+      \range{pages}{-1}
+    \endentry
+    \entry{erwinPSO}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=e72bea7f1ce51349a97da771f9549887}{%
+           family={Erwin},
+           familyi={E\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=4eb1c9e11997045dbcd5686b21a46fef}{%
+           family={Engelbrecht},
+           familyi={E\bibinitperiod},
+           given={Andries},
+           giveni={A\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{fullhash}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{fullhashraw}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{bibnamehash}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{authorbibnamehash}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{authornamehash}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{authorfullhash}{01a36ca3090eceb74589fd8d539ec8bf}
+      \strng{authorfullhashraw}{01a36ca3090eceb74589fd8d539ec8bf}
+      \field{sortinit}{E}
+      \field{sortinithash}{8da8a182d344d5b9047633dfc0cc9131}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ALGORITHMS}
+      \field{number}{2}
+      \field{title}{Multi-Guide Set-Based Particle Swarm Optimization for Multi-Objective Portfolio Optimization}
+      \field{volume}{16}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/a16020062
+      \endverb
+    \endentry
+    \entry{googleNgramViewer}{online}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b41cfdd489875d8146476255d2702514}{%
+           family={{Google Books}},
+           familyi={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{b41cfdd489875d8146476255d2702514}
+      \strng{fullhash}{b41cfdd489875d8146476255d2702514}
+      \strng{fullhashraw}{b41cfdd489875d8146476255d2702514}
+      \strng{bibnamehash}{b41cfdd489875d8146476255d2702514}
+      \strng{authorbibnamehash}{b41cfdd489875d8146476255d2702514}
+      \strng{authornamehash}{b41cfdd489875d8146476255d2702514}
+      \strng{authorfullhash}{b41cfdd489875d8146476255d2702514}
+      \strng{authorfullhashraw}{b41cfdd489875d8146476255d2702514}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Acesso em: 22 jul. 2024}
+      \field{title}{Google Books Ngram Viewer}
+      \field{year}{2024}
+      \verb{urlraw}
+      \verb https://books.google.com/ngrams
+      \endverb
+      \verb{url}
+      \verb https://books.google.com/ngrams
+      \endverb
+    \endentry
+    \entry{hendershott2012algorithmic}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c399d84777c83dbdc2b2c66a2fb2576a}{%
+           family={Hendershott},
+           familyi={H\bibinitperiod},
+           given={Terrence},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18e11d67ea591859d22abdfca30de3aa}{%
+           family={Riordan},
+           familyi={R\bibinitperiod},
+           given={Ryan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{fullhash}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{fullhashraw}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{bibnamehash}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{authorbibnamehash}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{authornamehash}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{authorfullhash}{57bca05523f4b21f8dc2863fc56423db}
+      \strng{authorfullhashraw}{57bca05523f4b21f8dc2863fc56423db}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Financial and Quantitative Analysis (JFQA)}
+      \field{title}{Algorithmic trading and information}
+      \field{year}{2012}
+    \endentry
+    \entry{hull2016opccoes}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=ceecd71c7d27182f0b52772476b8cc16}{%
+           family={Hull},
+           familyi={H\bibinitperiod},
+           given={John\bibnamedelima C},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Bookman Editora}%
+      }
+      \strng{namehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{fullhash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{fullhashraw}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{bibnamehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authorbibnamehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authornamehash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authorfullhash}{ceecd71c7d27182f0b52772476b8cc16}
+      \strng{authorfullhashraw}{ceecd71c7d27182f0b52772476b8cc16}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Opções, futuros e outros derivativos}
+      \field{year}{2016}
+    \endentry
+    \entry{488968}{inproceedings}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=3c48c2b390e26f548e0165030fc81158}{%
+           family={Kennedy},
+           familyi={K\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bf02564a54f2efb38a4d61a5ecadbee}{%
+           family={Eberhart},
+           familyi={E\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{fullhash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{fullhashraw}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{bibnamehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authorbibnamehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authornamehash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authorfullhash}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \strng{authorfullhashraw}{dca6e0377de6e9c72c6d6aa5e4fffe8d}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Proceedings of ICNN'95 - International Conference on Neural Networks}
+      \field{title}{Particle swarm optimization}
+      \field{volume}{4}
+      \field{year}{1995}
+      \field{pages}{1942\bibrangedash 1948 vol.4}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1109/ICNN.1995.488968
+      \endverb
+      \keyw{Particle swarm optimization;Birds;Educational institutions;Marine animals;Testing;Humans;Genetic algorithms;Optimization methods;Artificial neural networks;Performance evaluation}
+    \endentry
+    \entry{el2009decision}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=6d8d00d4eb1f634126ac35a8aa6d5d85}{%
+           family={El-Khodary},
+           familyi={E\bibinithyphendelim K\bibinitperiod},
+           given={Ihab\bibnamedelima A},
+           giveni={I\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{fullhash}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{fullhashraw}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{bibnamehash}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{authorbibnamehash}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{authornamehash}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{authorfullhash}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \strng{authorfullhashraw}{6d8d00d4eb1f634126ac35a8aa6d5d85}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{World Applied Sciences Journal}
+      \field{number}{11}
+      \field{title}{A decision support system for technical analysis of financial markets based on the moving average crossover}
+      \field{volume}{6}
+      \field{year}{2009}
+      \field{pages}{1457\bibrangedash 1472}
+      \range{pages}{16}
+    \endentry
+    \entry{Mazen2023}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c0b18563d8aae3ebba4a5253154b6ec4}{%
+           family={Mazen},
+           familyi={M\bibinitperiod},
+           given={Tamer\bibnamedelima Sh.},
+           giveni={T\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Al-Kindi Center for Research}%
+        {Development}%
+      }
+      \strng{namehash}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{fullhash}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{fullhashraw}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{bibnamehash}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{authorbibnamehash}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{authornamehash}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{authorfullhash}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \strng{authorfullhashraw}{c0b18563d8aae3ebba4a5253154b6ec4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Business and Management Studies}
+      \field{number}{4}
+      \field{title}{Gold Exchange Traded Funds (ETFs), Take Profit / Stop Loss Prediction using Machine Learning}
+      \field{volume}{5}
+      \field{year}{2023}
+      \field{pages}{6\bibrangedash 17}
+      \range{pages}{12}
+      \verb{doi}
+      \verb 10.32996/jbms.2023.5.4.2
+      \endverb
+      \verb{urlraw}
+      \verb https://al-kindipublisher.com/index.php/jbms/article/view/5538
+      \endverb
+      \verb{url}
+      \verb https://al-kindipublisher.com/index.php/jbms/article/view/5538
+      \endverb
+    \endentry
+    \entry{bointroducao}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=bf8f19ed55e70f921e2b87415d3338b8}{%
+           family={Min},
+           familyi={M\bibinitperiod},
+           given={Bo\bibnamedelima Hee},
+           giveni={B\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=44b68941c42acbda8cb08aa1571ab712}{%
+           family={Borch},
+           familyi={B\bibinitperiod},
+           given={Christian},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{fullhash}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{fullhashraw}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{bibnamehash}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{authorbibnamehash}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{authornamehash}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{authorfullhash}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \strng{authorfullhashraw}{fcf7ff94b28d5760a59da1ceb69d17a1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Social Studies of Science}
+      \field{note}{PMID: 34612758}
+      \field{number}{2}
+      \field{title}{Systemic failures and organizational risk management in algorithmic trading: Normal accidents and high reliability in financial markets}
+      \field{volume}{52}
+      \field{year}{2022}
+      \field{pages}{277\bibrangedash 302}
+      \range{pages}{26}
+      \verb{doi}
+      \verb 10.1177/03063127211048515
+      \endverb
+      \verb{urlraw}
+      \verb https://doi.org/10.1177/03063127211048515
+      \endverb
+      \verb{url}
+      \verb https://doi.org/10.1177/03063127211048515
+      \endverb
+    \endentry
+    \entry{miranda2018pyswarms}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=c3c484c2f5fb5374624b3a934bddcd2b}{%
+           family={Miranda},
+           familyi={M\bibinitperiod},
+           given={Lester\bibnamedelima James},
+           giveni={L\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{fullhash}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{fullhashraw}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{bibnamehash}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{authorbibnamehash}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{authornamehash}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{authorfullhash}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \strng{authorfullhashraw}{c3c484c2f5fb5374624b3a934bddcd2b}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Open Source Software}
+      \field{number}{21}
+      \field{title}{PySwarms: a research toolkit for Particle Swarm Optimization in Python}
+      \field{volume}{3}
+      \field{year}{2018}
+      \field{pages}{433}
+      \range{pages}{1}
+    \endentry
+    \entry{MIRJALILI201651}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c424204a9da2927d4d0c77bc4716d175}{%
+           family={Mirjalili},
+           familyi={M\bibinitperiod},
+           given={Seyedali},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5f19ff061dc1fc5cb48790e0b40ca9cd}{%
+           family={Lewis},
+           familyi={L\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{fullhash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{fullhashraw}{f81d818b913e52dd9b940b962eb09142}
+      \strng{bibnamehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authorbibnamehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authornamehash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authorfullhash}{f81d818b913e52dd9b940b962eb09142}
+      \strng{authorfullhashraw}{f81d818b913e52dd9b940b962eb09142}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0965-9978}
+      \field{journaltitle}{Advances in Engineering Software}
+      \field{title}{The Whale Optimization Algorithm}
+      \field{volume}{95}
+      \field{year}{2016}
+      \field{pages}{51\bibrangedash 67}
+      \range{pages}{17}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.advengsoft.2016.01.008
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0965997816300163
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0965997816300163
+      \endverb
+      \keyw{Optimization,Benchmark,Constrained optimization,Particle swarm optimization,Algorithm,Heuristic algorithm,Genetic algorithm,Structural optimization}
+    \endentry
+    \entry{nametala2017construccao}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=1,uniquepart=given,hash=e1d89791a7b54f5f30c6a325ed5e5350}{%
+           family={Nametala},
+           familyi={N\bibinitperiod},
+           given={CAL},
+           giveni={C\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{publisher}{1}{%
+        {Universidade Federal de Minas Gerais}%
+      }
+      \strng{namehash}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{fullhash}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{fullhashraw}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{bibnamehash}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{authorbibnamehash}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{authornamehash}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{authorfullhash}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \strng{authorfullhashraw}{e1d89791a7b54f5f30c6a325ed5e5350}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Mestrado em Engenharia Elétrica}
+      \field{title}{Construção de um robô investidor baseado em redes neurais artificiais e preditores econométricos}
+      \field{year}{2017}
+    \endentry
+    \entry{ciniro2}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=1,uniquepart=given,hash=1d3b32dbd96be1569168cbe0e47c851a}{%
+           family={Nametala},
+           familyi={N\bibinitperiod},
+           given={Ciniro\bibnamedelimb A.\bibnamedelimi L.},
+           giveni={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim L\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=087fb38bf169bed2d306bd683cd7a7d4}{%
+           family={Souza},
+           familyi={S\bibinitperiod},
+           given={Jonas\bibnamedelima Villela},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=acc6b81b553b72a6a19ad8c94e0c05a5}{%
+           family={Pimenta},
+           familyi={P\bibinitperiod},
+           given={Alexandre},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f552ac486e472ca23a1f2bab17f5b1f5}{%
+           family={Carrano},
+           familyi={C\bibinitperiod},
+           given={Eduardo\bibnamedelima Gontijo},
+           giveni={E\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {VAN GODEWIJCKSTRAAT 30, 3311 GZ DORDRECHT, NETHERLANDS}%
+      }
+      \list{publisher}{1}{%
+        {SPRINGER}%
+      }
+      \strng{namehash}{73007b48acc243debb46931be21b56d5}
+      \strng{fullhash}{af7a38ccf730a881651ce4bf4beefb1c}
+      \strng{fullhashraw}{af7a38ccf730a881651ce4bf4beefb1c}
+      \strng{bibnamehash}{73007b48acc243debb46931be21b56d5}
+      \strng{authorbibnamehash}{73007b48acc243debb46931be21b56d5}
+      \strng{authornamehash}{73007b48acc243debb46931be21b56d5}
+      \strng{authorfullhash}{af7a38ccf730a881651ce4bf4beefb1c}
+      \strng{authorfullhashraw}{af7a38ccf730a881651ce4bf4beefb1c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0927-7099}
+      \field{journaltitle}{COMPUTATIONAL ECONOMICS}
+      \field{number}{2}
+      \field{title}{Use of Econometric Predictors and Artificial Neural Networks for the Construction of Stock Market Investment Bots}
+      \field{type}{Article}
+      \field{volume}{61}
+      \field{year}{2023}
+      \field{pages}{743\bibrangedash 773}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1007/s10614-021-10228-0
+      \endverb
+      \keyw{Artificial neural networks; Econometrics; Optimization; Quantitative finance; Time series forecasting}
+    \endentry
+    \entry{PSO25ANOS}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=1c42ff439d512712dfa1464850b543ef}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={Janmenjoy},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=df0fd1e1a86ec2889a7222e2a2f4d54b}{%
+           family={Swapnarekha},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b77a9eea533f316ccbb3e351ad5a8555}{%
+           family={Naik},
+           familyi={N\bibinitperiod},
+           given={Bighnaraj},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2e500d34470ccee55cc58f8d4c0447ad}{%
+           family={Dhiman},
+           familyi={D\bibinitperiod},
+           given={Gaurav},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=11fb9d2129d2a79111f2c61b84231c94}{%
+           family={Vimal},
+           familyi={V\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2db369f8a9a549bf79b9674e17349b60}
+      \strng{fullhash}{3f7ba50df788720641a1d0f5e276826a}
+      \strng{fullhashraw}{3f7ba50df788720641a1d0f5e276826a}
+      \strng{bibnamehash}{2db369f8a9a549bf79b9674e17349b60}
+      \strng{authorbibnamehash}{2db369f8a9a549bf79b9674e17349b60}
+      \strng{authornamehash}{2db369f8a9a549bf79b9674e17349b60}
+      \strng{authorfullhash}{3f7ba50df788720641a1d0f5e276826a}
+      \strng{authorfullhashraw}{3f7ba50df788720641a1d0f5e276826a}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1134-3060}
+      \field{journaltitle}{ARCHIVES OF COMPUTATIONAL METHODS IN ENGINEERING}
+      \field{number}{3}
+      \field{title}{25 Years of Particle Swarm Optimization: Flourishing Voyage of Two Decades}
+      \field{volume}{30}
+      \field{year}{2023}
+      \field{pages}{1663\bibrangedash 1725}
+      \range{pages}{63}
+      \verb{doi}
+      \verb 10.1007/s11831-022-09849-x
+      \endverb
+    \endentry
+    \entry{Noertjahyana_2020}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=7edd8c557ec8b1ee1a82c70f5ab27519}{%
+           family={Noertjahyana},
+           familyi={N\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6752e0ad4daa1385c65e4ba2438ba1a3}{%
+           family={Christopher},
+           familyi={C\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=54b8ee3247e32125ff3f2a6a5dcc83cd}{%
+           family={Abas},
+           familyi={A\bibinitperiod},
+           given={Z\bibnamedelima A},
+           giveni={Z\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a1ef8d485de3f3e6d7a306d93f1ac63}{%
+           family={Yusoh},
+           familyi={Y\bibinitperiod},
+           given={Z\bibnamedelima I\bibnamedelima M},
+           giveni={Z\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b465520402b27e3b97b4c8d84dee1855}{%
+           family={Setiawan},
+           familyi={S\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{f7c08834273764b1cd5fd4dee34431ab}
+      \strng{fullhash}{7e7f38aa3b69d1734913efa715cf3f24}
+      \strng{fullhashraw}{7e7f38aa3b69d1734913efa715cf3f24}
+      \strng{bibnamehash}{f7c08834273764b1cd5fd4dee34431ab}
+      \strng{authorbibnamehash}{f7c08834273764b1cd5fd4dee34431ab}
+      \strng{authornamehash}{f7c08834273764b1cd5fd4dee34431ab}
+      \strng{authorfullhash}{7e7f38aa3b69d1734913efa715cf3f24}
+      \strng{authorfullhashraw}{7e7f38aa3b69d1734913efa715cf3f24}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics: Conference Series}
+      \field{number}{1}
+      \field{title}{Stop hunt detection using indicators and expert advisors in the forex market}
+      \field{volume}{1502}
+      \field{year}{2020}
+      \field{pages}{012054}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1088/1742-6596/1502/1/012054
+      \endverb
+      \verb{urlraw}
+      \verb https://dx.doi.org/10.1088/1742-6596/1502/1/012054
+      \endverb
+      \verb{url}
+      \verb https://dx.doi.org/10.1088/1742-6596/1502/1/012054
+      \endverb
+    \endentry
+    \entry{nunes2020relaccao}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=0c5387e9f44b10f0dd1807ba3a5a0c78}{%
+           family={Nunes},
+           familyi={N\bibinitperiod},
+           given={Rodolfo\bibnamedelima Vieira},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=9ee7438be12aa027980f596e17164e76}{%
+           family={Compagnore},
+           familyi={C\bibinitperiod},
+           given={Rodrigo\bibnamedelima Nicoletto},
+           giveni={R\bibinitperiod\bibinitdelim N\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5db598a51d83cc50684a8111b54480b6}{%
+           family={Sales},
+           familyi={S\bibinitperiod},
+           given={George\bibnamedelimb André\bibnamedelima Willrich},
+           giveni={G\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{fullhash}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{fullhashraw}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{bibnamehash}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{authorbibnamehash}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{authornamehash}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{authorfullhash}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \strng{authorfullhashraw}{6eaf3e09ede2cf9c9720239d4d8e77c2}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Práticas em Contabilidade e Gestão}
+      \field{number}{2}
+      \field{title}{Relação entre as variáveis Risco País, Índice Bovespa e Taxa de Câmbio no Mercado Brasileiro}
+      \field{volume}{8}
+      \field{year}{2020}
+    \endentry
+    \entry{Pakhucha_Sievidova_Siadrysta_Mohilevsky_Oliynik_Bogdanovych_2021}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=fed730d86635ab3d15f0b5504a536b41}{%
+           family={Pakhucha},
+           familyi={P\bibinitperiod},
+           given={Ellina},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3483723e17d02431ba4ac564842f8779}{%
+           family={Sievidova},
+           familyi={S\bibinitperiod},
+           given={Iryna},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3f4937b25e976cd476c0d91ba5c05eae}{%
+           family={Siadrysta},
+           familyi={S\bibinitperiod},
+           given={Iryna},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c55a3920bd05dde7c48e02d189f8d9ec}{%
+           family={Mohilevsky},
+           familyi={M\bibinitperiod},
+           given={Leonid},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=cbeff26e2d2230807463f2b3e332fb9b}{%
+           family={Oliynik},
+           familyi={O\bibinitperiod},
+           given={Tamila},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f66487032ea6394a0ee6242b64bd3bb6}{%
+           family={Bogdanovych},
+           familyi={B\bibinitperiod},
+           given={Olga},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{54a1c2302b0e200e063ff8e32678d526}
+      \strng{fullhash}{51900e8a2e4ef675bf99433278e9fd05}
+      \strng{fullhashraw}{51900e8a2e4ef675bf99433278e9fd05}
+      \strng{bibnamehash}{54a1c2302b0e200e063ff8e32678d526}
+      \strng{authorbibnamehash}{54a1c2302b0e200e063ff8e32678d526}
+      \strng{authornamehash}{54a1c2302b0e200e063ff8e32678d526}
+      \strng{authorfullhash}{51900e8a2e4ef675bf99433278e9fd05}
+      \strng{authorfullhashraw}{51900e8a2e4ef675bf99433278e9fd05}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{European Journal of Sustainable Development}
+      \field{number}{1}
+      \field{title}{Financial Risks in the Conditions of Unstable Market Economy}
+      \field{volume}{10}
+      \field{year}{2021}
+      \field{pages}{432}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.14207/ejsd.2021.v10n1p432
+      \endverb
+      \verb{urlraw}
+      \verb https://ecsdev.org/ojs/index.php/ejsd/article/view/1182
+      \endverb
+      \verb{url}
+      \verb https://ecsdev.org/ojs/index.php/ejsd/article/view/1182
+      \endverb
+    \endentry
+    \entry{PAPAILIAS2015458}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=8fe06e5513b45bb2846f386155a89114}{%
+           family={Papailias},
+           familyi={P\bibinitperiod},
+           given={Fotis},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d938becdebbe19c5185bbf2b2f7085ea}{%
+           family={Thomakos},
+           familyi={T\bibinitperiod},
+           given={Dimitrios\bibnamedelima D.},
+           giveni={D\bibinitperiod\bibinitdelim D\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{fullhash}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{fullhashraw}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{bibnamehash}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{authorbibnamehash}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{authornamehash}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{authorfullhash}{55e2840bfc25ea66bb836ccc486bec8e}
+      \strng{authorfullhashraw}{55e2840bfc25ea66bb836ccc486bec8e}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0378-4371}
+      \field{journaltitle}{Physica A: Statistical Mechanics and its Applications}
+      \field{title}{An improved moving average technical trading rule}
+      \field{volume}{428}
+      \field{year}{2015}
+      \field{pages}{458\bibrangedash 469}
+      \range{pages}{12}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.physa.2015.01.088
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378437115001752
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S0378437115001752
+      \endverb
+      \keyw{Moving average,Trailing stop,Technical analysis,Trading strategies}
+    \endentry
+    \entry{castellifernando}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=c6fd3941472efc2e34cffb7d0fef3372}{%
+           family={Peres},
+           familyi={P\bibinitperiod},
+           given={Fernando},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=48e8e1d8c5932a910f283fd008da6699}{%
+           family={Castelli},
+           familyi={C\bibinitperiod},
+           given={Mauro},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{fullhash}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{fullhashraw}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{bibnamehash}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{authorbibnamehash}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{authornamehash}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{authorfullhash}{9fdab5ca666af2b19c547ff643fddc97}
+      \strng{authorfullhashraw}{9fdab5ca666af2b19c547ff643fddc97}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{In the past few decades, metaheuristics have demonstrated their suitability in addressing complex problems over different domains. This success drives the scientific community towards the definition of new and better-performing heuristics and results in an increased interest in this research field. Nevertheless, new studies have been focused on developing new algorithms without providing consolidation of the existing knowledge. Furthermore, the absence of rigor and formalism to classify, design, and develop combinatorial optimization problems and metaheuristics represents a challenge to the field’s progress. This study discusses the main concepts and challenges in this area and proposes a formalism to classify, design, and code combinatorial optimization problems and metaheuristics. We believe these contributions may support the progress of the field and increase the maturity of metaheuristics as problem solvers analogous to other machine learning algorithms.}
+      \field{issn}{2076-3417}
+      \field{journaltitle}{Applied Sciences}
+      \field{number}{14}
+      \field{title}{Combinatorial Optimization Problems and Metaheuristics: Review, Challenges, Design, and Development}
+      \field{volume}{11}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.3390/app11146449
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2076-3417/11/14/6449
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2076-3417/11/14/6449
+      \endverb
+    \endentry
+    \entry{portnoy2011high}{article}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=2948e6e716e1fdd203186882056a2247}{%
+           family={Portnoy},
+           familyi={P\bibinitperiod},
+           given={Kyle},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2948e6e716e1fdd203186882056a2247}
+      \strng{fullhash}{2948e6e716e1fdd203186882056a2247}
+      \strng{fullhashraw}{2948e6e716e1fdd203186882056a2247}
+      \strng{bibnamehash}{2948e6e716e1fdd203186882056a2247}
+      \strng{authorbibnamehash}{2948e6e716e1fdd203186882056a2247}
+      \strng{authornamehash}{2948e6e716e1fdd203186882056a2247}
+      \strng{authorfullhash}{2948e6e716e1fdd203186882056a2247}
+      \strng{authorfullhashraw}{2948e6e716e1fdd203186882056a2247}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Park Place Economist}
+      \field{number}{1}
+      \field{title}{High frequency trading and the stock market: a look at the effects of trade volume on stock price changes}
+      \field{volume}{19}
+      \field{year}{2011}
+      \field{pages}{35\bibrangedash 47}
+      \range{pages}{13}
+    \endentry
+    \entry{bovespa2}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=4c3ebdf03ed19fad9efc0466bf8eccef}{%
+           family={Prado},
+           familyi={P\bibinitperiod},
+           given={Jose\bibnamedelima Willer},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+           givenun=0,
+           prefix={do},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=29ecab236d1e9bf076f9cd63af223cfb}{%
+           family={Chain},
+           familyi={C\bibinitperiod},
+           given={Caio\bibnamedelima Peixoto},
+           giveni={C\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=83ae519c037bffdd870f360829797f97}{%
+           family={Rosa},
+           familyi={R\bibinitperiod},
+           given={Mirian},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=76e3927225ce8dea27c3ea5daee4355e}{%
+           family={Campos},
+           familyi={C\bibinitperiod},
+           given={Alyce\bibnamedelima Cardoso},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ee347cdfd2908c78a520ed7c799b1b5}
+      \strng{fullhash}{43a5c9047dde7ee17d4afa3a8346262a}
+      \strng{fullhashraw}{43a5c9047dde7ee17d4afa3a8346262a}
+      \strng{bibnamehash}{0ee347cdfd2908c78a520ed7c799b1b5}
+      \strng{authorbibnamehash}{0ee347cdfd2908c78a520ed7c799b1b5}
+      \strng{authornamehash}{0ee347cdfd2908c78a520ed7c799b1b5}
+      \strng{authorfullhash}{43a5c9047dde7ee17d4afa3a8346262a}
+      \strng{authorfullhashraw}{43a5c9047dde7ee17d4afa3a8346262a}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2316-2341}
+      \field{journaltitle}{REVISTA ENIAC PESQUISA}
+      \field{number}{1}
+      \field{title}{Decision making in the financial market: a comparison between Artificial Neural Networks and Neuro-Fuzzy Systems for predicting the Bovespa index}
+      \field{volume}{13}
+      \field{year}{2024}
+      \field{pages}{95\bibrangedash 119}
+      \range{pages}{25}
+      \verb{doi}
+      \verb 10.22567/rep.v13i1.952
+      \endverb
+    \endentry
+    \entry{WOS:000233683900013}{inproceedings}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=2a7a3535af0402efeb7e5a06d6928ec6}{%
+           family={Pugh},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=72e6fac8fd8edc0447604f737e0e7e39}{%
+           family={Martinoli},
+           familyi={M\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=0bebb792354fedeefdfec859bca2f33f}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={YZ},
+           giveni={Y\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {345 E 47TH ST, NEW YORK, NY 10017 USA}%
+      }
+      \list{organization}{1}{%
+        {IEEE}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{fullhash}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{fullhashraw}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{bibnamehash}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{authorbibnamehash}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{authornamehash}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{authorfullhash}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \strng{authorfullhashraw}{b04cac4e0ca84ef5fd8cffd815f77578}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{2005 IEEE SWARM INTELLIGENCE SYMPOSIUM}
+      \field{isbn}{0-7803-8916-6}
+      \field{note}{IEEE Swarm Intelligence Symposium, Pasadena, CA, JUN 08-10, 2005}
+      \field{title}{Particle swarm optimization for unsupervised robotic learning}
+      \field{type}{Proceedings Paper}
+      \field{year}{2005}
+      \field{pages}{92\bibrangedash 99}
+      \range{pages}{8}
+      \keyw{particle swarm optimization; unsupervised learning; noisy optimization; swarm robotics}
+    \endentry
+    \entry{Santos_Silva_Villagrán_Ribeiro_Sanfins_2021}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=90be5ef8090ce6c79658ae06996dfbc4}{%
+           family={Santos},
+           familyi={S\bibinitperiod},
+           given={Daiane\bibnamedelima Rodrigues},
+           giveni={D\bibinitperiod\bibinitdelim R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f2bb344544fc33354e88ecbc43cd24d9}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Tuany\bibnamedelimb Esthefany\bibnamedelimb Barcellos\bibnamedelimb de\bibnamedelima C.},
+           giveni={T\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim d\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=201d42dfe58f6bac1bf83727d21b7c3c}{%
+           family={Villagrán},
+           familyi={V\bibinitperiod},
+           given={Campos\bibnamedelimb Elias\bibnamedelima Suárez},
+           giveni={C\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=219eba5e0d8c5d26d414b4d19c5e9a78}{%
+           family={Ribeiro},
+           familyi={R\bibinitperiod},
+           given={Tiago\bibnamedelima Costa},
+           giveni={T\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d14a05f947ba11f870c7de8683ada21d}{%
+           family={Sanfins},
+           familyi={S\bibinitperiod},
+           given={Marco\bibnamedelima Aurélio},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{c1fc9ea5a06b13624cd9a39a9c86816f}
+      \strng{fullhash}{fe85b57c235eb49ae7244e35e855f4ee}
+      \strng{fullhashraw}{fe85b57c235eb49ae7244e35e855f4ee}
+      \strng{bibnamehash}{c1fc9ea5a06b13624cd9a39a9c86816f}
+      \strng{authorbibnamehash}{c1fc9ea5a06b13624cd9a39a9c86816f}
+      \strng{authornamehash}{c1fc9ea5a06b13624cd9a39a9c86816f}
+      \strng{authorfullhash}{fe85b57c235eb49ae7244e35e855f4ee}
+      \strng{authorfullhashraw}{fe85b57c235eb49ae7244e35e855f4ee}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brazilian Applied Science Review}
+      \field{number}{1}
+      \field{title}{Escolha de carteira de investimento: aplicação no mercado financeiro brasileiro / Choice of investment portfolio: application in the brazilian financial Market}
+      \field{volume}{5}
+      \field{year}{2021}
+      \field{pages}{568\bibrangedash 583}
+      \range{pages}{16}
+      \verb{doi}
+      \verb 10.34115/basrv5n1-036
+      \endverb
+      \verb{urlraw}
+      \verb https://ojs.brazilianjournals.com.br/ojs/index.php/BASR/article/view/25077
+      \endverb
+      \verb{url}
+      \verb https://ojs.brazilianjournals.com.br/ojs/index.php/BASR/article/view/25077
+      \endverb
+    \endentry
+    \entry{WOS:000986168700001}{article}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=08eddd11265f78e35847def5b188ba19}{%
+           family={Shami},
+           familyi={S\bibinitperiod},
+           given={Tareq\bibnamedelima M.},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97206349bf9e4c6742c709fa40d9fdbc}{%
+           family={El-Saleh},
+           familyi={E\bibinithyphendelim S\bibinitperiod},
+           given={Ayman\bibnamedelima A.},
+           giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5401c5fd42eda889da5598dbf07f0ed2}{%
+           family={Alswaitti},
+           familyi={A\bibinitperiod},
+           given={Mohammed},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=705e2b261c4df3dda6674d44509f5386}{%
+           family={Al-Tashi},
+           familyi={A\bibinithyphendelim T\bibinitperiod},
+           given={Qasem},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4e7da9f800a96beaea6292e0eea0efc}{%
+           family={Summakieh},
+           familyi={S\bibinitperiod},
+           given={Mhd\bibnamedelima Amen},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c424204a9da2927d4d0c77bc4716d175}{%
+           family={Mirjalili},
+           familyi={M\bibinitperiod},
+           given={Seyedali},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{35982b92f414a09e09e05e42334f5e54}
+      \strng{fullhash}{a85b5912c0a4cb76423071a219d73d3f}
+      \strng{fullhashraw}{a85b5912c0a4cb76423071a219d73d3f}
+      \strng{bibnamehash}{35982b92f414a09e09e05e42334f5e54}
+      \strng{authorbibnamehash}{35982b92f414a09e09e05e42334f5e54}
+      \strng{authornamehash}{35982b92f414a09e09e05e42334f5e54}
+      \strng{authorfullhash}{a85b5912c0a4cb76423071a219d73d3f}
+      \strng{authorfullhashraw}{a85b5912c0a4cb76423071a219d73d3f}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2169-3536}
+      \field{journaltitle}{IEEE ACCESS}
+      \field{title}{Particle Swarm Optimization: A Comprehensive Survey}
+      \field{volume}{10}
+      \field{year}{2022}
+      \field{pages}{10031\bibrangedash 10061}
+      \range{pages}{31}
+      \verb{doi}
+      \verb 10.1109/ACCESS.2022.3142859
+      \endverb
+      \keyw{Signal processing algorithms;Optimization;Particle swarm optimization;Feature extraction;Topology;Birds;Statistics;Applications of PSO;binary PSO;evolutionary computation;feature selection;hybrid algorithms;meta-heuristic algorithms;particle swarm optimization;PSO variants}
+    \endentry
+    \entry{bovespa1}{inproceedings}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=a45736d3c31b00d3049af5c36c7710cd}{%
+           family={Silva},
+           familyi={S\bibinitperiod},
+           given={Rafael\bibnamedelimb R.\bibnamedelimi C.},
+           giveni={R\bibinitperiod\bibinitdelim R\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d30ac2238951a83f49011e787f969b9c}{%
+           family={Caminhas},
+           familyi={C\bibinitperiod},
+           given={Walmir\bibnamedelima Matos},
+           giveni={W\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f4ad8a7b3b71b08c9354cde938c91149}{%
+           family={Lima\bibnamedelimb e\bibnamedelima Silva},
+           familyi={L\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim S\bibinitperiod},
+           given={Petronio\bibnamedelima Candido},
+           giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0,
+           prefix={de},
+           prefixi={d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=75faa2a07252bc6d8b38efdc2aab5123}{%
+           family={Guimaraes},
+           familyi={G\bibinitperiod},
+           given={Frederico\bibnamedelima Gadelha},
+           giveni={F\bibinitperiod\bibinitdelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{organization}{1}{%
+        {IEEE Computat Intelligence Soc; IEEE}%
+      }
+      \strng{namehash}{0eeeeb5066fba7d21adbfb4733bc92a8}
+      \strng{fullhash}{0c87ac4a3073af0d76464e0903b44995}
+      \strng{fullhashraw}{0c87ac4a3073af0d76464e0903b44995}
+      \strng{bibnamehash}{0eeeeb5066fba7d21adbfb4733bc92a8}
+      \strng{authorbibnamehash}{0eeeeb5066fba7d21adbfb4733bc92a8}
+      \strng{authornamehash}{0eeeeb5066fba7d21adbfb4733bc92a8}
+      \strng{authorfullhash}{0c87ac4a3073af0d76464e0903b44995}
+      \strng{authorfullhashraw}{0c87ac4a3073af0d76464e0903b44995}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{IEEE CIS INTERNATIONAL CONFERENCE ON FUZZY SYSTEMS 2021 (FUZZ-IEEE)}
+      \field{isbn}{978-1-6654-4407-1}
+      \field{issn}{1098-7584}
+      \field{note}{IEEE CIS International Conference on Fuzzy Systems (FUZZ-IEEE), ELECTR NETWORK, JUL 11-14, 2021}
+      \field{series}{IEEE International Conference on Fuzzy Systems}
+      \field{title}{A C4.5 Fuzzy Decision Tree Method for Multivariate Time Series Forecasting}
+      \field{year}{2021}
+      \verb{doi}
+      \verb 10.1109/FUZZ45933.2021.9494439
+      \endverb
+    \endentry
+    \entry{sivri2023}{inproceedings}{}{}
+      \name{author}{6}{}{%
+        {{un=0,uniquepart=base,hash=247403cbb43e5ef76abf180c3c01d85a}{%
+           family={Sivri},
+           familyi={S\bibinitperiod},
+           given={Mahmut\bibnamedelima Sami},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b531c916d7875f680a4ebb2f3270127}{%
+           family={Gultekin},
+           familyi={G\bibinitperiod},
+           given={Ahmet\bibnamedelima Berkay},
+           giveni={A\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fd55a0fadabc2d10e8a2a2eab351708a}{%
+           family={Ustundag},
+           familyi={U\bibinitperiod},
+           given={Alp},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ba4141a9af9f90b210adf94588ec6c3d}{%
+           family={Beyca},
+           familyi={B\bibinitperiod},
+           given={Omer\bibnamedelima Faruk},
+           giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=31dd9d664ce4519045e8411be979ca6d}{%
+           family={Ari},
+           familyi={A\bibinitperiod},
+           given={Emre},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67018ca2045d0d6d0bb1ee52644d795c}{%
+           family={Gurcan},
+           familyi={G\bibinitperiod},
+           given={Omer\bibnamedelima Faruk},
+           giveni={O\bibinitperiod\bibinitdelim F\bibinitperiod},
+           givenun=0}}%
+      }
+      \name{editor}{6}{}{%
+        {{hash=e50d1f39adf9dc913fe5095706d2e9b2}{%
+           family={Kahraman},
+           familyi={K\bibinitperiod},
+           given={Cengiz},
+           giveni={C\bibinitperiod}}}%
+        {{hash=6d74536dd0296eeb360870e3c4b867ce}{%
+           family={Sari},
+           familyi={S\bibinitperiod},
+           given={Irem\bibnamedelima Ucal},
+           giveni={I\bibinitperiod\bibinitdelim U\bibinitperiod}}}%
+        {{hash=f5876c6e0aa70bb8f69d27fc07a7ecc7}{%
+           family={Oztaysi},
+           familyi={O\bibinitperiod},
+           given={Basar},
+           giveni={B\bibinitperiod}}}%
+        {{hash=346078838d99b37532d2b97a6095e444}{%
+           family={Cebi},
+           familyi={C\bibinitperiod},
+           given={Selcuk},
+           giveni={S\bibinitperiod}}}%
+        {{hash=294b1828a3d42c638bfe96cd6cd65fa3}{%
+           family={Cevik\bibnamedelima Onar},
+           familyi={C\bibinitperiod\bibinitdelim O\bibinitperiod},
+           given={Sezi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=e091d3b979d34fefe26096071502deac}{%
+           family={Tolga},
+           familyi={T\bibinitperiod},
+           given={A.\bibnamedelimi Çağr{ı}},
+           giveni={A\bibinitperiod\bibinitdelim Ç\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Cham}%
+      }
+      \list{publisher}{1}{%
+        {Springer Nature Switzerland}%
+      }
+      \strng{namehash}{d5eaaf9e9764844ef8e53eb8ca284527}
+      \strng{fullhash}{ae20939fbd9cb91dfca72f7eb69a186c}
+      \strng{fullhashraw}{ae20939fbd9cb91dfca72f7eb69a186c}
+      \strng{bibnamehash}{d5eaaf9e9764844ef8e53eb8ca284527}
+      \strng{authorbibnamehash}{d5eaaf9e9764844ef8e53eb8ca284527}
+      \strng{authornamehash}{d5eaaf9e9764844ef8e53eb8ca284527}
+      \strng{authorfullhash}{ae20939fbd9cb91dfca72f7eb69a186c}
+      \strng{authorfullhashraw}{ae20939fbd9cb91dfca72f7eb69a186c}
+      \strng{editorbibnamehash}{7752ead0b31c28020acd8bbedc758d43}
+      \strng{editornamehash}{7752ead0b31c28020acd8bbedc758d43}
+      \strng{editorfullhash}{c1602e1cd98473919e8262dcea8a8ce3}
+      \strng{editorfullhashraw}{c1602e1cd98473919e8262dcea8a8ce3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Intelligent and Fuzzy Systems}
+      \field{isbn}{978-3-031-39777-6}
+      \field{title}{An Intelligent System for Determination of Stop -- Loss and Take -- Profit Limits: A Dynamic Decision Learning Approach}
+      \field{year}{2023}
+      \field{pages}{617\bibrangedash 624}
+      \range{pages}{8}
+    \endentry
+    \entry{TANG2022363}{article}{}{}
+      \name{author}{8}{}{%
+        {{un=0,uniquepart=base,hash=1f665818303e1d3f5473e6974f15b0e2}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Yajiao},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f5f73b3d0840bd62db2713a8efb25880}{%
+           family={Song},
+           familyi={S\bibinitperiod},
+           given={Zhenyu},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8b8381a1c2143c8dbc8c6c8195badcd6}{%
+           family={Zhu},
+           familyi={Z\bibinitperiod},
+           given={Yulin},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=64647e6088c7d24ddf2a056ce93b98e5}{%
+           family={Yuan},
+           familyi={Y\bibinitperiod},
+           given={Huaiyu},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b8268b49279a3682c5ef6ff3434bc018}{%
+           family={Hou},
+           familyi={H\bibinitperiod},
+           given={Maozhang},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46aa2455a94d90579583f7139a450710}{%
+           family={Ji},
+           familyi={J\bibinitperiod},
+           given={Junkai},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f5509368197dc91f27a38bebf695b40}{%
+           family={Tang},
+           familyi={T\bibinitperiod},
+           given={Cheng},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=044e3ce31698740e52346ad0aadea689}{%
+           family={Li},
+           familyi={L\bibinitperiod},
+           given={Jianqiang},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{cc4e55f46c34105c55f2ea928e9ce7d8}
+      \strng{fullhash}{149e60bcda5b2082b98db7d4d926fff5}
+      \strng{fullhashraw}{149e60bcda5b2082b98db7d4d926fff5}
+      \strng{bibnamehash}{cc4e55f46c34105c55f2ea928e9ce7d8}
+      \strng{authorbibnamehash}{cc4e55f46c34105c55f2ea928e9ce7d8}
+      \strng{authornamehash}{cc4e55f46c34105c55f2ea928e9ce7d8}
+      \strng{authorfullhash}{149e60bcda5b2082b98db7d4d926fff5}
+      \strng{authorfullhashraw}{149e60bcda5b2082b98db7d4d926fff5}
+      \field{sortinit}{T}
+      \field{sortinithash}{9af77f0292593c26bde9a56e688eaee9}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0925-2312}
+      \field{journaltitle}{Neurocomputing}
+      \field{title}{A survey on machine learning models for financial time series forecasting}
+      \field{volume}{512}
+      \field{year}{2022}
+      \field{pages}{363\bibrangedash 380}
+      \range{pages}{18}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.neucom.2022.09.003
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S092523122201089X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S092523122201089X
+      \endverb
+      \keyw{Financial Time Series,Forecasting,Machine learning,Hybrid method}
+    \endentry
+    \entry{Vezeris2018}{article}{}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=5af5a9555da665babdf37bf3ca8d2313}{%
+           family={Vezeris},
+           familyi={V\bibinitperiod},
+           given={Dimitrios},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07654bcdb0ad7d41ba0faa1283188691}{%
+           family={Kyrgos},
+           familyi={K\bibinitperiod},
+           given={Themistoklis},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f6a2d06821ae4b0b0410dfca004c94d0}{%
+           family={Schinas},
+           familyi={S\bibinitperiod},
+           given={Christos},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{fullhash}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{fullhashraw}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{bibnamehash}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{authorbibnamehash}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{authornamehash}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{authorfullhash}{2daf7fb169dd1077b4d5183a8c923309}
+      \strng{authorfullhashraw}{2daf7fb169dd1077b4d5183a8c923309}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1911-8074}
+      \field{journaltitle}{Journal of Risk and Financial Management}
+      \field{number}{3}
+      \field{title}{Take Profit and Stop Loss Trading Strategies Comparison in Combination with an MACD Trading System}
+      \field{volume}{11}
+      \field{year}{2018}
+      \verb{doi}
+      \verb 10.3390/jrfm11030056
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/1911-8074/11/3/56
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/1911-8074/11/3/56
+      \endverb
+    \endentry
+    \entry{WOS:000231777300003}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=867289c2f864b4383886100ecc53037e}{%
+           family={Warburton},
+           familyi={W\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=8c7e33341497a0d4d09fdd41dc4b89ee}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={ZG},
+           giveni={Z\bibinitperiod},
+           givenun=1}}%
+      }
+      \list{language}{1}{%
+        {English}%
+      }
+      \list{location}{1}{%
+        {THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND}%
+      }
+      \list{publisher}{1}{%
+        {PERGAMON-ELSEVIER SCIENCE LTD}%
+      }
+      \strng{namehash}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{fullhash}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{fullhashraw}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{bibnamehash}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{authorbibnamehash}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{authornamehash}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{authorfullhash}{60fdaa91272e475a33cd62abca04bfd2}
+      \strng{authorfullhashraw}{60fdaa91272e475a33cd62abca04bfd2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0305-0548}
+      \field{journaltitle}{COMPUTERS \& OPERATIONS RESEARCH}
+      \field{number}{1}
+      \field{title}{A simple computational model for analyzing the properties of stop-loss, take-profit, and price breakout trading strategies}
+      \field{type}{Article}
+      \field{volume}{33}
+      \field{year}{2006}
+      \field{pages}{32\bibrangedash 42}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1016/j.cor.2004.06.001
+      \endverb
+      \keyw{stop-loss orders; profit targets; planning horizons; trailing stop strategies}
+    \endentry
+    \entry{WILINSKI2017100}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=539816e539bd5f23c3f6f2a98a434e29}{%
+           family={Wilinski},
+           familyi={W\bibinitperiod},
+           given={Antoni},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=46476c130ebbf69705b3cf696d9ca43b}{%
+           family={Kovalerchuk},
+           familyi={K\bibinitperiod},
+           given={Boris},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{56109537a2ce67a1225c50533b48e97e}
+      \strng{fullhash}{56109537a2ce67a1225c50533b48e97e}
+      \strng{fullhashraw}{56109537a2ce67a1225c50533b48e97e}
+      \strng{bibnamehash}{56109537a2ce67a1225c50533b48e97e}
+      \strng{authorbibnamehash}{56109537a2ce67a1225c50533b48e97e}
+      \strng{authornamehash}{56109537a2ce67a1225c50533b48e97e}
+      \strng{authorfullhash}{56109537a2ce67a1225c50533b48e97e}
+      \strng{authorfullhashraw}{56109537a2ce67a1225c50533b48e97e}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1389-0417}
+      \field{journaltitle}{Cognitive Systems Research}
+      \field{title}{Visual knowledge discovery and machine learning for investment strategy}
+      \field{volume}{44}
+      \field{year}{2017}
+      \field{pages}{100\bibrangedash 114}
+      \range{pages}{15}
+      \verb{doi}
+      \verb https://doi.org/10.1016/j.cogsys.2017.04.004
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1389041717300359
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1389041717300359
+      \endverb
+      \keyw{Visual knowledge discovery,Machine learning,Multidimensional visualization,Investment strategies,Collocated Paired Coordinates,Time series prediction}
+    \endentry
+    \entry{wu}{article}{}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=d15ee168e0e6ff2e5b6b747b0fad11fa}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Jimmy\bibnamedelima Ming-Tai},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinithyphendelim T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a6011db977d88b69ffbcf7392fc091cb}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Mu-En},
+           giveni={M\bibinithyphendelim E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=aba4e7f417071ffd1f8a8f7583997115}{%
+           family={Hung},
+           familyi={H\bibinitperiod},
+           given={Pang-Jen},
+           giveni={P\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52329602d489c29ad6e8d8e7135279f1}{%
+           family={Hassan},
+           familyi={H\bibinitperiod},
+           given={Mohammad\bibnamedelima Mehedi},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8e15b29ba99bb73810d65525efc588f2}{%
+           family={Fortino},
+           familyi={F\bibinitperiod},
+           given={Giancarlo},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{770c16d2d78d120f1864ca5e188a79c2}
+      \strng{fullhash}{57ee6962f28008cdc3a0861abd6cdacb}
+      \strng{fullhashraw}{57ee6962f28008cdc3a0861abd6cdacb}
+      \strng{bibnamehash}{770c16d2d78d120f1864ca5e188a79c2}
+      \strng{authorbibnamehash}{770c16d2d78d120f1864ca5e188a79c2}
+      \strng{authornamehash}{770c16d2d78d120f1864ca5e188a79c2}
+      \strng{authorfullhash}{57ee6962f28008cdc3a0861abd6cdacb}
+      \strng{authorfullhashraw}{57ee6962f28008cdc3a0861abd6cdacb}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0941-0643}
+      \field{journaltitle}{NEURAL COMPUTING \& APPLICATIONS}
+      \field{title}{Convert index trading to option strategies via LSTM architecture}
+      \field{year}{2020}
+      \verb{doi}
+      \verb 10.1007/s00521-020-05377-6
+      \endverb
+    \endentry
+    \entry{ZERVOUDAKIS2020106559}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=0eb1e1d1184de1aa2307c96a403b78bb}{%
+           family={Zervoudakis},
+           familyi={Z\bibinitperiod},
+           given={Konstantinos},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fdf4a923adcb91beda8a1e2682baa4a1}{%
+           family={Tsafarakis},
+           familyi={T\bibinitperiod},
+           given={Stelios},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{213edeb418a1f1fd083adb2962273dae}
+      \strng{fullhash}{213edeb418a1f1fd083adb2962273dae}
+      \strng{fullhashraw}{213edeb418a1f1fd083adb2962273dae}
+      \strng{bibnamehash}{213edeb418a1f1fd083adb2962273dae}
+      \strng{authorbibnamehash}{213edeb418a1f1fd083adb2962273dae}
+      \strng{authornamehash}{213edeb418a1f1fd083adb2962273dae}
+      \strng{authorfullhash}{213edeb418a1f1fd083adb2962273dae}
+      \strng{authorfullhashraw}{213edeb418a1f1fd083adb2962273dae}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0360-8352}
+      \field{journaltitle}{Computers \& Industrial Engineering}
+      \field{title}{A mayfly optimization algorithm}
+      \field{volume}{145}
+      \field{year}{2020}
+      \field{pages}{106559}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.cie.2020.106559
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S036083522030293X
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S036083522030293X
+      \endverb
+      \keyw{Mayfly algorithm,Nature-inspired algorithm,Optimization}
+    \endentry
+    \entry{math11132980}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=b102a701f43ec972bb35bcb20a834cda}{%
+           family={Zyl},
+           familyi={Z\bibinitperiod},
+           given={Jean-Pierre},
+           giveni={J\bibinithyphendelim P\bibinitperiod},
+           givenun=0,
+           prefix={van},
+           prefixi={v\bibinitperiod},
+           prefixun=0}}%
+        {{un=1,uniquepart=given,hash=8a36b42e73da020682e62521b0dd6df3}{%
+           family={Engelbrecht},
+           familyi={E\bibinitperiod},
+           given={Andries\bibnamedelima Petrus},
+           giveni={A\bibinitperiod\bibinitdelim P\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{fullhash}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{fullhashraw}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{bibnamehash}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{authorbibnamehash}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{authornamehash}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{authorfullhash}{6e92e48de8caee6bbd209c8b24f1c781}
+      \strng{authorfullhashraw}{6e92e48de8caee6bbd209c8b24f1c781}
+      \field{sortinit}{Z}
+      \field{sortinithash}{96892c0b0a36bb8557c40c49813d48b3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{2227-7390}
+      \field{journaltitle}{Mathematics}
+      \field{number}{13}
+      \field{title}{Set-Based Particle Swarm Optimisation: A Review}
+      \field{volume}{11}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/math11132980
+      \endverb
+      \verb{urlraw}
+      \verb https://www.mdpi.com/2227-7390/11/13/2980
+      \endverb
+      \verb{url}
+      \verb https://www.mdpi.com/2227-7390/11/13/2980
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
